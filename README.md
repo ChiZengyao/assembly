@@ -1,2 +1,2 @@
 # assembly
-a repository for some assembly code
+主要是课本上一些汇编例子和有意思的汇编小程序
