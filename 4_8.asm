@@ -1,3 +1,5 @@
+;跳转表实现分支是一种很有用的分支程序设计方法
+
 data segment
     dis   db 0dh,0ah,'Please input digit 0~9.$'
     dis0  db 0dh,0ah,'Please input digit 0.$'
